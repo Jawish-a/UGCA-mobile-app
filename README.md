@@ -1,16 +1,12 @@
-# ugca_mobileapp
+# UGCA ( University Group Chat App ) - Mobile App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### what is this ?
+ 
+ you should read this https://github.com/Jawish-a/UGCA
+ 
+ ### how to make it run ?
+ 
+ this project has been made using Dart & Flutter, so follow the basics of any Flutter project.
+ 
+ ### Other questions ?
+ contact me please i would love to help
